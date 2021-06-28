@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8">
- <g>
-  <rect id="svg_3" height="5.953009" width="1.970973" y="1.138955" x="5.520464" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#b15858"/>
-  <rect id="svg_6" height="5.966372" width="1.970973" y="1.122789" x="0.516538" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="null" fill="#b15858"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8"><g><rect id="svg_3" width="1.971" height="5.953" x="5.52" y="1.139" fill="#b15858" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null"/><rect id="svg_6" width="1.971" height="5.966" x=".517" y="1.123" fill="#b15858" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="null"/></g></svg>
